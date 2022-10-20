@@ -34,4 +34,10 @@ Faça um programa que calcule o IMC
 
 Desafio 5
 
-Faça um programa que calcule o valor a ser pago por um produto considerando o seu preço normal e condição de pagamento:
+Faça um programa que calcule o valor a ser pago por um produto considerando o seu preço normal e condição de pagamento
+
+
+Desafio 6
+
+Faça um programa que verifica se é maior de idade
+

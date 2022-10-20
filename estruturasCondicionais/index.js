@@ -81,3 +81,13 @@ const calculaJuros = (valor, metodo, parcela) => {
 }
 
 calculaJuros(100, "Pix");
+
+// Desafio 6
+
+const verificaIdade = (idade) => {
+    if(idade >= 18) {
+        console.log("Maior de idade");
+    } else {
+        console.log("Menor de idade");
+    }
+}

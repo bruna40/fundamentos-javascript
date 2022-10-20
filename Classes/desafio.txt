@@ -1,0 +1,9 @@
+Desafio 1
+
+Crie uma classe para representar carros.
+Os carros possuem uma marca, uma cor e uma gasto medio de combustivel por kilometro rodado.
+Crie um metodo que retorne o consumo de combustivel de um carro, dado o numero de kilometros rodados e a quantidade de combustivel gasta.
+
+Desafio 2
+
+Crie uma clase para calcular o IMC

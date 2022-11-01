@@ -41,3 +41,11 @@ Desafio 6
 
 Faça um programa que verifica se é maior de idade
 
+DEsafio 7
+
+Retorna qauntos numeros são impares de um determinado valor
+
+Desafio 8
+
+Faça um Programa que leia cinco números inteiros e armazene-os em um vetor chamado VETOR. Armazene os números pares no vetor PAR e os números ímpares no vetor IMPAR. 
+

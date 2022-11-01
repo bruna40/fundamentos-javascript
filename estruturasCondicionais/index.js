@@ -91,3 +91,40 @@ const verificaIdade = (idade) => {
         console.log("Menor de idade");
     }
 }
+// Desafio 7
+function amountOfOdds(numbers) {
+    const sum = [];
+    for (let i = 0; i < numbers; i++) {
+        if (i % 2 !== 0) {
+            sum.push(i);
+        }
+    }
+    return sum.length;
+}
+
+console.log(amountOfOdds(15));
+
+// Desafio 8
+
+let vetor = [ 3,4,6,9,10];
+let pares = [];
+let impares = [];
+
+//TODO: Implemente uma condição para o armazenamento dos números PARES e ÍMPARES:
+
+
+//TODO: Imprima os valores dos três vetores um em cada linha:
+
+
+for (i of vetor){
+    if (i % 2 == 0){
+        pares.push(i);
+    }else{
+    impares.push(i);
+    }
+}
+
+
+console.log(`Vetor(res): ${vetor}`);
+console.log(`Par(es): ${pares}`)
+console.log(`Impar(es): ${impares}`)
